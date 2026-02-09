@@ -1,5 +1,5 @@
 # blux
-A template of pypi library
+Common utils for multi repos of blbl.top.
 
 ![](https://img.shields.io/pypi/v/blux?label=blux&color=blue&cacheSeconds=60)
 
